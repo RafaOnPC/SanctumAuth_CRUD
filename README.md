@@ -3,7 +3,7 @@
 Este proyecto consiste en el desarrollo de una API REST utilizando el framework de PHP,  Laravel utilizando Laravel Sanctum para autenticación de usuarios. La API proporciona endpoints para la gestión de empleados y departamentos, permitiendo a los usuarios realizar operaciones pertenecientes a un CRUD (Crear, Leer, Actualizar, Eliminar) sobre estos recursos.
 
 ### 👉 Aspectos Destacados
-+ ###Autenticación segura
++ ### Autenticación segura
 Se implemento Laravel Sanctum para proporcionar una autenticación segura de usuarios, permitiendo el acceso controlado a los endpoints de la API.
 + ### Gestión de empleados
 La API permite a los usuarios realizar operaciones CRUD sobre los datos de los empleados. Esto incluye la creación, lectura, actualización y eliminación de registros de empleados.
