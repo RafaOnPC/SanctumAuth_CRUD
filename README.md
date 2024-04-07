@@ -25,16 +25,17 @@ Validacion de email de Usuario
 
 Validacion de password de Usuario
 
-<a href="https://postimg.cc/bZ8F6WMJ" target="_blank"><img src="https://i.postimg.cc/Hk7DLC9Q/Validacion-password-1.png" alt="Validacion-password-1"/></a><br/><br/>
+![Validacion_password_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/16c81570-88fc-4220-ac7d-b764f7b017f5)
 
 Usuario creado
 
-<a href="https://postimg.cc/ts5v8DQz" target="_blank"><img src="https://i.postimg.cc/5tdcYksD/Create-user-1.png" alt="Create-user-1"/></a><br/><br/>
+![Create_user_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/07945999-54df-463c-961f-95d49536c45a)
+
 <a href="https://postimg.cc/yJ8pK97C" target="_blank"><img src="https://i.postimg.cc/MGyCyb4H/Create-user-BD-1.png" alt="Create-user-BD-1"/></a><br/><br/>
 
 Usuario autenticado
 
-<a href="https://postimg.cc/ppK6JRs4" target="_blank"><img src="https://i.postimg.cc/SNPbqKCS/Auth-user-1.png" alt="Auth-user-1"/></a><br/><br/>
+![Auth_user_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/f0d60a10-31bd-40f0-b7a8-aa915ab057d0)
 
 Permisos de Usuario
 
