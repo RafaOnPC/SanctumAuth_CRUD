@@ -21,7 +21,7 @@ Se implementan medidas de seguridad y validación de datos para garantizar la in
 
 Validacion de email de Usuario
 
-<a href="https://postimg.cc/3yfSxRw4" target="_blank"><img src="https://i.postimg.cc/rmMvgRXJ/Validacion-email-1.png" alt="Validacion-email-1"/></a><br/><br/>
+![Validacion_email_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/fc98e918-472e-4925-9c66-dc734df1d682)
 
 Validacion de password de Usuario
 
@@ -31,7 +31,7 @@ Usuario creado
 
 ![Create_user_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/07945999-54df-463c-961f-95d49536c45a)
 
-<a href="https://postimg.cc/yJ8pK97C" target="_blank"><img src="https://i.postimg.cc/MGyCyb4H/Create-user-BD-1.png" alt="Create-user-BD-1"/></a><br/><br/>
+![Create_user_BD_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/696f7451-3fa4-4300-8560-03fd6394f112)
 
 Usuario autenticado
 
@@ -42,5 +42,6 @@ Permisos de Usuario
 + ### Nota
 Utilizar el token otorgado al autenticarse para poder ejecutar los endpoints de los CRUD's
 
-<a href="https://postimg.cc/Dm9NG8P1" target="_blank"><img src="https://i.postimg.cc/MKHJhBc3/Acccions-Auth-user-1.png" alt="Acccions-Auth-user-1"/></a><br/><br/>
+![Acccions_Auth_user_1](https://github.com/RafaOnPC/SanctumAuth_CRUD/assets/128557603/a080e688-bb49-4fae-b464-a3fcf563fc4a)
+
 
